@@ -1,0 +1,1 @@
+import{ArrowUpRight}from'lucide-react';export default function Footer(){return <footer><a className="brand" href="#home">GB<span>.</span></a><p>© {new Date().getFullYear()} Gilang Banuaji</p><a href="#home">Back to top <ArrowUpRight size={15}/></a></footer>}
